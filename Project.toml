@@ -20,6 +20,7 @@ LatexifyExtension = "Latexify"
 
 [compat]
 AbstractTrees = "0.4"
+CxxWrap = "0.15"
 PrecompileTools = "1.1"
 PrettyTables = "2.2.7"
 ReplMaker = "0.2.5"
